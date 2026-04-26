@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ejemploID {
+    background-color: black;
+    color:white;
+}
+
+.clase1{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
